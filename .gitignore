@@ -1,0 +1,14 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.out
+
+# Dev-C++ project files
+*.layout
+*.dev
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+*.swp
